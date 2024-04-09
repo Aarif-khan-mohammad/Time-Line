@@ -1,0 +1,55 @@
+/* Write your CSS here */
+.project-card{
+    width: 38rem;
+    padding: 0px;
+    margin: 0px;
+  }
+
+
+  
+  .p-image {
+    width: 100%;
+  }
+  
+  .content-container {
+    display: flex;
+    justify-content: space-between;
+
+  }
+  
+  .project-title {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 22px;
+    padding: 5px;
+    color: #1e293b;
+  }
+  
+  .duration-cont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+ 
+  
+  .duration {
+    color: #1e293b;
+    font-family: 'Roboto';
+    font-size: 15px;
+    font-weight: 700;
+    padding: 5px;
+  }
+  
+  .project-description {
+    font-family: 'Roboto';
+    font-size: 19px;
+    font-weight: 400;
+  }
+
+  .project-link{
+    font-size: 1rem;
+    text-decoration: none;
+    font-family: "Roboto";
+    font-weight: bold;
+  }

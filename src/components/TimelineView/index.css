@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.chrono-container{
+    height: 100%;
+    width: 100%;
+
+}
+
+
+.main-container{
+    background-image: linear-gradient(to left bottom, #a3d092, #b7b975, #c5a267, #ca8a67, #c57571, #bf7186, #ae739a, #9577a8, #7d87b7, #6a95ba, #66a0b4, #72a8ab);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.head{
+    font-family: "Bree Serif";
+}
